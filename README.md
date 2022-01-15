@@ -15,7 +15,7 @@ I personally can't stand phantoms. They look super cool but are a pain, so I wro
 * With any other item 5%
 * Sword with Looting 1: 10% for 1 membrane
 * Sword with Looting 2: 20% for 2 membrane, 10% for one membrane
-8 Sword with Looting 3: 30% for 3 membrane, 20% for 2 membrane, 10% for 1 membrane
+* Sword with Looting 3: 30% for 3 membrane, 20% for 2 membrane, 10% for 1 membrane
 
 ## Instalation
 > Download the PhantomRemover.jar from this repositiory
