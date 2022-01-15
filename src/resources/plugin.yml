@@ -1,6 +1,0 @@
-name: PhantomRemover
-version: 1.0
-main: kylenotfound.kylenotfound.PhantomRemover
-api-version: 1.13
-authors: [KyleEvangelisto]
-description: Remove Phantoms and give Striders and Drowns the drops instead
