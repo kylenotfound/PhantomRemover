@@ -1,0 +1,7 @@
+name: PhantomRemover
+version: '${project.version}'
+main: kylenotfound.kylenotfound.PhantomRemover
+api-version: 1.18
+authors: [ KyleEvangelisto ]
+description: Removes Phantoms
+website: kyleevangelisto.com
